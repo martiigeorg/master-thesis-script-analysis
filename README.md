@@ -1,3 +1,9 @@
+Master thesis: "The Effects of Comments and Indentation on Code Quality Perception: An Eye-Tracking Study of CS1 Students"
+
+Martina Georgieva
+
+Medieninformatik, LMU, Munich
+
 # Jupyter Script Repository
 
 This repository contains a Jupyter Notebook script along with a `requirements.txt` file that lists all the necessary dependencies to run the notebook successfully.
